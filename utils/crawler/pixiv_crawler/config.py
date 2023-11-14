@@ -60,7 +60,7 @@ USER_CONFIG = {
 DOWNLOAD_CONFIG = {
     # image save path
     #   NOTE: DO NOT miss "/"
-    "STORE_PATH": "E://vscode_clustter//code//github//Animate-Image-Bed//images//2023-11-14//mikuyama/",
+    "STORE_PATH": "E://vscode_clustter//code//github//Animate-Image-Bed//images//2023-11-14//kisaki/",
 
     # abort request / download
     #   after 10 unsuccessful attempts
