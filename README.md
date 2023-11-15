@@ -14,11 +14,11 @@
 
 
 ## Introduction
-Hayase Yuuka Bed is a stylish and versatile image hosting service that allows you to effortlessly upload, manage, and share your images. This README will guide you through the setup and usage of Hayase Yuuka Bed.
+Hayase Yuuka Bed is a stylish and versatile image hosting service that allows you to effortlessly craw, manage, and share your images from pixiv. This README will guide you through the setup and usage of Hayase Yuuka Bed.
 
 
 ## Features
-- Easy image upload and management
+- Easy image craw and management
 - Beautiful image galleries and albums
 - Customizable image sharing options
 - Seamless integration with your projects
@@ -36,6 +36,24 @@ To get started with animate_image_bed, follow these simple steps:
 
    ```bash
    cd animate_image_bed
+   ```
+3. change your config state
+   
+   ```python
+   USER_CONFIG = {
+    # user id
+    #   access your pixiv user profile to find this
+    #   e.g. https://www.pixiv.net/users/xxxx
+    "USER_ID": "YOUR PIXIV USER ID",
+
+    "COOKIE": "YOUR COOKIE OF PIXIV"  
+    }
+   ```
+4. start craw sctipt or jupyter
+
+   ```bash
+   cd .//Animate-Image-Bed//utils//crawler
+   python collect.py
    ```
 
 ## Usage
