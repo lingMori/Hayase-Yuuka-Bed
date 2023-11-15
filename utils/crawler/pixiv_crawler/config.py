@@ -51,16 +51,16 @@ USER_CONFIG = {
     # user id
     #   access your pixiv user profile to find this
     #   e.g. https://www.pixiv.net/users/xxxx
-    "USER_ID": "5640xxxx",
+    "USER_ID": "100485309",
 
-    "COOKIE": "first_visit_datetime_pc=2022-03-23+09%3A05%3A13; p_ab_id=2; p_ab_id_2=6; p_ab_d_id=496637752; yuid_b=FnRJY4g; _fbp=fb.1.1647993926346.868094683; privacy_policy_notification=0; a_type=0; b_type=1; _im_vid=01FYT7DA0M1MG08GJSVD70BA7M; adr_id=lTzPqgTf6xmkSZZddeH8LhLHDKfx8OJsbbCpSa4F8n6kESK0; login_ever=yes; _td=e09e84b3-b5d0-4284-8cbc-fe6a9605154a; _ga_692MXKN5XF=GS1.1.1665973029.1.0.1665973029.0.0.0; cto_bundle=MeOqNl9aSyUyRkklMkJFcFJ5WCUyQlNzZkozQTFYSVpESHZCRiUyRm83QWZ3aTdmNEVIbG9FRWkxUUlIbDl0eiUyQnZlRmU3SWo0d1VLMGFFMks1M0dXWnA4OFBhMkNhcjJGQ3Rjakl3JTJGc3lwcU5ZV1NiY0RMbSUyQmQ0aEVZY0J4TnM0RiUyRnBEJTJGcVJPeSUyQkwyWTAwUmFvNmQyV3R5QlRnN2RXSFFYUSUzRCUzRA; _im_uid.3929=i.HNTUXPphRC6Tos5lngHwCA; c_type=21; privacy_policy_agreement=6; __gads=ID=e032ebe84fc5b362:T=1696335939:RT=1696335939:S=ALNI_MYk8hTGJ0JVZ08XHPJ1chcTiPcYZQ; __gpi=UID=00000c56c30e862e:T=1696335939:RT=1696335939:S=ALNI_MZ0J6EZLNM_IHlenurDDcoh0qn7tw; _ga_ZQEKG3EF2C=GS1.1.1696335939.1.0.1696335941.58.0.0; __utmv=235335808.|2=login%20ever=yes=1^3=plan=normal=1^5=gender=male=1^6=user_id=56405112=1^9=p_ab_id=2=1^10=p_ab_id_2=6=1^11=lang=zh=1; _gcl_au=1.1.2068989696.1697797468; PHPSESSID=56405112_5F6NwBp0ibUH6FuPbdq8P8dKXRrJiakY; device_token=d9e66683eee3c683671ce6dd45961915; _ga_MZ1NL4PHH0=GS1.1.1698243034.3.1.1698243060.0.0.0; __utmz=235335808.1698489562.713.11.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); QSI_S_ZN_5hF4My7Ad6VNNAi=v:0:0; _gid=GA1.2.73441192.1699788507; __utma=235335808.740189076.1647993924.1699936938.1699944133.746; _ga_ZPL8LPMDK3=GS1.1.1699945764.19.1.1699945776.0.0.0; __cf_bm=o75a_dxEYYH.70c_3Bc9l9kcnQ21g9q8qLYL8Cwim7E-1699947948-0-Ado847VODjuEbsuWh1d73rDUAUzc7NV4HSqPNkf4uDbtOq43lk4n0Iadho7XiG9BJqfShmOiyQ0SBKCLFsD9oftUNIV83XaDN3sMnjCMy9C9; __utmc=235335808; __utmt=1; cf_clearance=tKGeitoxfXwmrHstKob0LLLWi8vTys7CS5e3PwnggmI-1699948192-0-1-631cd866.945ac2d7.341d8786-0.2.1699948192; __utmb=235335808.54.10.1699944133; _ga_75BBYNYN9J=GS1.1.1699944133.496.1.1699948282.0.0.0; _ga=GA1.2.740189076.1647993924"
+    "COOKIE": "first_visit_datetime_pc=2023-11-14%2021%3A14%3A16; p_ab_id=2; p_ab_id_2=5; p_ab_d_id=71834117; __utmz=235335808.1699964057.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); _fbp=fb.1.1699964058282.1477207184; yuid_b=ExEzmCA; _gid=GA1.2.850018427.1699964127; _im_vid=01HF6W467E25MGXNXPJHEWPTDQ; device_token=dccafc93aaa8692c65f392c9a7ab00d2; privacy_policy_agreement=6; _ga_MZ1NL4PHH0=GS1.1.1699964577.1.0.1699964580.0.0.0; privacy_policy_notification=0; a_type=0; b_type=1; QSI_S_ZN_5hF4My7Ad6VNNAi=v:0:0; __cf_bm=EcdCq6u9Cawg5WGif5GMjKPfagY8Cn8LOorJQIztgy4-1699977997-0-ASiN6tdcrdSeVoHG+HLRzr4ie44p7eGBLLwf9926P50W+qVTe85kjNknXeTyrx0vQD5R1IFLtLWkOdggMgKe8eCw18QCPpazQ8PGIcyD5i1g; __utma=235335808.537133348.1699964057.1699964057.1699977999.2; __utmc=235335808; __utmt=1; cf_clearance=IS1KlIfrIWG0DyX6j9cU2VDiL2fgV5dfE7a4e3qhBwg-1699977998-0-1-91f80494.de9dec2c.c6f95b74-0.2.1699977998; PHPSESSID=100485309_FWeAxy5e9SMySeu4tvDPCSnMaDbMzocj; c_type=29; __utmv=235335808.|2=login%20ever=no=1^3=plan=premium=1^5=gender=male=1^6=user_id=100485309=1^9=p_ab_id=2=1^10=p_ab_id_2=5=1^11=lang=zh=1; __utmb=235335808.5.10.1699977999; _ga_75BBYNYN9J=GS1.1.1699977999.3.1.1699978046.0.0.0; _ga=GA1.2.362165901.1699964058"
 }
 
 
 DOWNLOAD_CONFIG = {
     # image save path
     #   NOTE: DO NOT miss "/"
-    "STORE_PATH": "E://vscode_clustter//code//github//Animate-Image-Bed//images//2023-11-14//kisaki/",
+    "STORE_PATH": "E://vscode_clustter//code//github//Animate-Image-Bed//images//2023-11-14//HayaseYuuka/",
 
     # abort request / download
     #   after 10 unsuccessful attempts
